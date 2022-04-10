@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd6C8B1c00838B4B200F0fDA21917458782EC2E6b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd6c8b1c00838b4b200f0fda21917458782ec2e6b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PICASART",
+  "SYMBOL": "PIKA",
+  "MAX_SUPPLY": 14000,
+  "WEI_COST": 70000000000000000000,
+  "DISPLAY_COST": 70,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/picasart-v2",
+  "SHOW_BACKGROUND": true
+}
